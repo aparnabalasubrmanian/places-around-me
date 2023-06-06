@@ -17,7 +17,7 @@ Write the  needed HTML code.
 Run the django server and execute the HTML files.
 
 ## Code:
-...
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -176,7 +176,7 @@ In 1988, Bijli took over the running of the cinema hall, which was revamped in 1
 </p>
 </body>
 </html>
-...
+```
 
 ## Output:
 ![output](./screenshots/out1.png)
